@@ -7,4 +7,3 @@ visit my social account for more information:
 
 [CSDN](https://blog.csdn.net/le0_5?type=blog)
 
-![compare with GAN (1)](./figures/GAN%20pressure%20error.png)
